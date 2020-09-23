@@ -1,0 +1,4 @@
+src/app.generated.js
+jsconfig.json
+src/serviceWorker.js
+src/**/__tests__/**
